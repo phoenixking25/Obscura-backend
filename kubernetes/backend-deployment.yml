@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: warturtle/obscura6-backend
+          image: phoenixking25/obscura-backend
           ports:
             - containerPort: 8000
  
